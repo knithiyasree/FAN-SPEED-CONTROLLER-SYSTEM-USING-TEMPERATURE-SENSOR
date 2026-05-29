@@ -13,10 +13,10 @@
 
 # Circuit Diagram:
 
-<img width="1280" height="718" alt="image" src="https://github.com/user-attachments/assets/5b1fbf33-fe88-434a-9b19-f8bbc53d6424" />
+<img width="818" height="439" alt="image" src="https://github.com/user-attachments/assets/3ae84927-08fd-4808-9dce-7a272e4d6dfb" />
 
 
-# Procedure // Modify the procedure based on your circuit
+# Procedure 
 
 Step 1: Set Up the Tinkercad Environment
 1.	Log in to Tinkercad: Open Tinkercad in your web browser and log in to your account.
@@ -148,7 +148,7 @@ void loop() {
 
 # OUTPUT
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/de5a0a4f-7283-4338-9760-6cf377514963" />
+<img width="861" height="144" alt="image" src="https://github.com/user-attachments/assets/bffded53-e28d-4f64-818e-b877f2b4efd4" />
 
 # RESULT
 Thus,the Temperature using DHT11/DHT22/TMP36 sensor with Arduino UNO Board/ESP-32 using Tinker CAD are verified.
